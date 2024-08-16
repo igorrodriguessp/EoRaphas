@@ -3,7 +3,7 @@
 <h1 align="center">👾 Welcome to my GitHub 👾</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=8A2BE2&center=true&vCenter=true&lines=;Hello!!;My+name+is+Raphael;I'm+21+years+old;I'm+from+Brazil;Data+Scientist;Be+welcome!+:%29" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=8A2BE2&center=true&vCenter=true&lines=;Hello!!;My+name+is+Raphael;I'm+21+years+old;I'm+from+Brazil;A+Data+Scientist+student;Be+welcome!+:%29" alt="Typing SVG" />
 </p>
 
 ---
